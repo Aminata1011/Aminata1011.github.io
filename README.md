@@ -1,73 +1,40 @@
-# Welcome to your Lovable project
+# Portfolio d'Aminata DOSSO
 
-## Project info
+Bienvenue sur le dépôt du code source de mon portfolio personnel. Ce site a été conçu pour présenter mon parcours, mes compétences et mes projets en développement, Data Science et Cybersécurité.
 
-**URL**: https://lovable.dev/projects/3af268d4-dcef-42f8-af43-be77f338bb5a
+## 🚀 Accès au site live
 
-## How can I edit this code?
+Le site est déployé et accessible en direct à l'adresse suivante :
 
-There are several ways of editing your application.
+**[➡️ Visitez mon portfolio ici](https://Aminata1011.github.io/NOM-DE-VOTRE-REPO/)**
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/3af268d4-dcef-42f8-af43-be77f338bb5a) and start prompting.
+## 📖 À propos de ce projet
 
-Changes made via Lovable will be committed automatically to this repo.
+Ce portfolio est un projet personnel développé pour mettre en pratique mes compétences en développement frontend et pour servir de vitrine centralisée pour mon profil d'ingénieur.
 
-**Use your preferred IDE**
+Il présente :
+* Un inventaire de mes compétences techniques (Data, Backend, Cyber, DevOps).
+* Une galerie détaillée de mes projets phares.
+* Les moyens de me contacter (LinkedIn, GitHub, CV).
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🛠️ Stack Technique (du portfolio)
 
-Follow these steps:
+Ce site lui-même a été construit avec les technologies modernes suivantes :
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+* **Framework Frontend :** React.js
+* **Outil de Build :** Vite, TypeScript
+* **Styling :** Tailwind CSS **
+* **Déploiement :** GitHub Pages
+* **CI/CD :** GitHub Actions pour le build et le déploiement automatiques
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## ✉️ Contact
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Merci de votre visite. N'hésitez pas à me contacter :
 
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/3af268d4-dcef-42f8-af43-be77f338bb5a) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+* **LinkedIn :** [linkedin.com/in/aminata-dosso/](https://linkedin.com/in/votre-profil)
