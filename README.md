@@ -27,7 +27,7 @@ Ce site lui-même a été construit avec les technologies modernes suivantes :
 
 * **Framework Frontend :** React.js
 * **Outil de Build :** Vite, TypeScript
-* **Styling :** Tailwind CSS **
+* **Styling :** Tailwind CSS 
 * **Déploiement :** GitHub Pages
 * **CI/CD :** GitHub Actions pour le build et le déploiement automatiques
 
