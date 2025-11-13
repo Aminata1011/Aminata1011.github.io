@@ -16,7 +16,7 @@ const Hero = () => {
         </h1>
         
         <p className="text-xl sm:text-2xl text-muted-foreground mb-8 max-w-3xl mx-auto leading-relaxed">
-          Étudiante-ingénieure à l'<a href="https://www.esiea.fr/" color="#b380ff">ESIEA</a> (4A), je conçois des solutions logicielles intelligentes et sécurisées. J'allie la puissance prédictive de la Data Science à la rigueur de la Cybersécurité, en m'appuyant sur une programmation robuste et optimisée.
+          Apprentie et étudiante-ingénieure à l'<a href="https://www.esiea.fr/" color="#b380ff">ESIEA</a> (4ème année), je conçois des solutions logicielles intelligentes et sécurisées. J'allie la puissance prédictive de la Data Science à la rigueur de la Cybersécurité, en m'appuyant sur une programmation robuste et optimisée.
         </p>
       </div>
     </section>
